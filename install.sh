@@ -3,6 +3,7 @@
 set -e
 
 REPO_URL="https://github.com/starcut/claude-development-workflow.git"
+
 TMP_DIR="$(mktemp -d)"
 
 trap 'rm -rf "$TMP_DIR"' EXIT
