@@ -60,6 +60,7 @@
 プロジェクトのルートディレクトリで以下のコマンドを実行する
 ```bash
 curl -fsSL https://raw.githubusercontent.com/starcut/claude-development-workflow/main/install.sh | bash
+```
 
 ## 共通ルール
 
